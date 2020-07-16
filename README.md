@@ -1,8 +1,6 @@
 ## Evgenia Noidou ##
 
-![alt text](https://github.com/EvgeniaNoidou/EvgeniaNo/blob/master/photo.jpg?raw=true)
-
-![alt text](https://github.com/EvgeniaNoidou/EvgeniaNo/blob/master/giphy.gif?raw=true)
+![alt text](https://github.com/EvgeniaNoidou/EvgeniaNo/blob/master/original.gif?raw=true)
 
 **Welcome to my repo with all of my favourite things!**
 
