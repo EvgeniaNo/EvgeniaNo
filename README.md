@@ -1,6 +1,6 @@
 ## Evgenia Noidou ##
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhello&psig=AOvVaw3KiSaX5eYrZoAopWMdbgza&ust=1595006332832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj1ieGj0uoCFQAAAAAdAAAAABAD)
+![alt text](https://github.com/EvgeniaNoidou/EvgeniaNo/blob/master/photo.jpg?raw=true)
 
 👋**Welcome to my repo with all of my favourite things!**
 
